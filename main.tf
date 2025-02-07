@@ -23,3 +23,4 @@ data "aws_ami" "ubuntu20" {
   }
   owners = ["099720109477"] # Canonical
 }
+
